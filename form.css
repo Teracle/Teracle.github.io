@@ -1,0 +1,37 @@
+.required{
+    color:red;
+}
+
+#description{
+    width: 70%;
+    height: 100%;
+}
+
+.errorMessage1{
+    color:#ff0000;
+}
+
+.errorMessage2{
+    color:#ff0000;
+}
+
+#name{
+
+    width: 70%;
+    height: 100%;
+}
+
+#email{
+    width: 70%;
+    height: 100%;
+}
+
+#guess{
+    height: 100%;
+}
+
+
+
+/**
+ * Styles for the add-observation.html page 
+ */
